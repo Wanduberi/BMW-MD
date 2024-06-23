@@ -1,23 +1,23 @@
 {
-  "name": "Bmw-md",
+  "name": "LUNATIC-md",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "LUNATIC.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node ibrahim.js",
-    "bmwmd": "pm2 start ibrahim.js --attach --max-memory-restart 490M",
+    "s": "node lunatic.js",
+    "lunaticmd": "pm2 start lunatic.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Bmw-md",
+    "lunatic-md",
     "whatsapp",
     "whatsapp-bot",
-    "ibrahimaitech"
+    "Lunatech"
   ],
-  "author": "ibrahimartech",
+  "author": "Lunatech",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
