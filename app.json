@@ -3,7 +3,7 @@
   "description":"bot whatsapp développé by Lunatic",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
-  "repository":"https://github.com/ibrahimaitech/BMW-MD",
+  "repository":"https://github.com/Wanduberi/LUNATIC-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BMW-XMD",
+      "value":"LUNATIC-MD",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝑴𝒓 𝑰𝒃𝒓𝒂𝒉𝒊𝒎"
+    "value": "LUNA TECH"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "+254739937062,254710772666"
+    "value": "+254112362249,254783128146"
   },
     "WARN_COUNT":
   {
