@@ -1,4 +1,4 @@
-## Best world bot bmw md made bt Ibrahim Adams
+## Best world bot Lunatic md made by Lunatic
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-## African tech
+## LUNA tech
 
 
 
